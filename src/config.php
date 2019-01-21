@@ -1,6 +1,6 @@
 <?php
 
-namespace codingyuan\push;
+namespace kangshifu\push;
 
 class config
 {

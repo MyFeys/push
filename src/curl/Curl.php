@@ -1,7 +1,7 @@
 <?php
-namespace codingyuan\push\curl;
+namespace kangshifu\push\curl;
 
-use codingyuan\push\curl\CurlResponse;
+use kangshifu\push\curl\CurlResponse;
 /**
  * A basic CURL wrapper
  *

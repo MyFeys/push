@@ -1,6 +1,6 @@
 <?php
 
-namespace codingyuan\push\api;
+namespace kangshifu\push\api;
 
 class Jpush extends Push
 {

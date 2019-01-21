@@ -1,10 +1,10 @@
 <?php
 
-namespace codingyuan\push;
+namespace kangshifu\push;
 
-use codingyuan\push\api\Getui;
-use codingyuan\push\api\Jpush;
-use codingyuan\push\api\Xmpush;
+use kangshifu\push\api\Getui;
+use kangshifu\push\api\Jpush;
+use kangshifu\push\api\Xmpush;
 
 define('PUSH', __DIR__);
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace codingyuan\push\api;
+namespace kangshifu\push\api;
 
-use codingyuan\push\api\Push;
-use codingyuan\push\curl\Curl;
+use kangshifu\push\api\Push;
+use kangshifu\push\curl\Curl;
 
 class Getui extends Push
 {

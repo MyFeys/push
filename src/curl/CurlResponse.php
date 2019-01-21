@@ -1,6 +1,6 @@
 <?php
 
-namespace codingyuan\push\curl;
+namespace kangshifu\push\curl;
 /**
  * Parses the response from a Curl request into an object containing
  * the response body and an associative array of headers

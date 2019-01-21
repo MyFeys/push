@@ -1,8 +1,8 @@
 <?php
 
-namespace codingyuan\push\lib;
+namespace kangshifu\push\lib;
 
-use codingyuan\push\config;
+use kangshifu\push\config;
 class Redis
 {
     public $host;

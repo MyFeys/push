@@ -1,8 +1,8 @@
 <?php
 
-namespace codingyuan\push\api;
+namespace kangshifu\push\api;
 
-use codingyuan\push\api\Push;
+use kangshifu\push\api\Push;
 
 class Xmpush extends Push
 {

@@ -7,12 +7,12 @@
 4. 多个推送平台
 
 #### 安装： <br />
-> composer require codingyuan/push '1.1.0' <br />
+> composer require kangshifu/push '1.1.0' <br />
 > 或者 github 上clone到本地vendor目录下
 
 #### 配置
 
-codingyuan/push/src/config.php
+kangshifu/push/src/config.php
 ```
     
     return [
@@ -47,7 +47,7 @@ codingyuan/push/src/config.php
 #### 推送
 
 ```
-    use codingyuan\push\Push;
+    use kangshifu\push\Push;
     
     public function actionIndex()
     {
@@ -96,7 +96,7 @@ codingyuan/push/src/config.php
 #### 查询状态
 
 ```
-    use codingyuan\push\Push;
+    use kangshifu\push\Push;
     
     public function actionIndex()
     {
