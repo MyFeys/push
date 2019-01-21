@@ -1,0 +1,19 @@
+{
+  "name": "codingyuan/push",
+  "type": "yii2-extension",
+  "description": "消息推送整合包：极光推送、个推推送、小米推送",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "2.*"
+  },
+  "authors": [
+    {
+      "name": "codingyuan",
+      "email": "codingyuan@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"codingyuan\\push\\": "src"}
+  }
+}
